@@ -1,0 +1,27 @@
+ <style>
+ 
+ img { max-width:100%; height:auto }
+ 
+    }
+
+table {
+        width: 100%;
+      }
+      table, th, td {
+        border: 1px solid
+      }
+      
+@media( max-width: 900px ) {
+    #NEWS,
+    #NEWS thead,
+    #NEWS tbody,
+    #NEWS tr,
+    #NEWS th,
+    #NEWS td {
+        display: block;
+#NEWS th,
+    #NEWS td {
+        border-top: none;
+        border-bottom: none;
+    }
+      </style>
